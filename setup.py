@@ -1,13 +1,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='cryptocurrency-wallet-generator',
+    name='cryptocurrency-wallet-generator-fork',
     packages=find_packages(),
-    version='0.0.7',
-    url='https://github.com/aruseni/python-cryptocurrency-wallet-generator',
-    author='aruseni',
-    author_email='aruseni.magiku@gmail.com',
-    description='Simple Python package that can generate wallets for several cryptocurrencies',
+    version='0.0.1',
+    url='https://github.com/elRaulito/python-cryptocurrency-wallet-generator'
+ ,   author='raulrosa',
+    author_email='raulr912@gmail.com',
+    description='Fork of Arseni work, adding Einsteinium as coin',
     zip_safe=False,
     include_package_data=True,
     platforms='any',

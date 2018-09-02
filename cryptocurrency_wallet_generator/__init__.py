@@ -10,7 +10,7 @@ currencies = {
     "Bitcoin Cash": BitcoinCash,
     "Dash": Dash,
     "Ethereum": Ethereum,
-    "Litecoin": Litecoin,
+    "Litecoin": Litecoin, "Einsteinium": Einsteinium
 }
 
 

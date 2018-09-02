@@ -12,7 +12,7 @@ Currently supported cryptocurrencies:
 
 ## Install
 
-    pip install cryptocurrency-wallet-generator
+    pip install cryptocurrency-wallet-generator-2
 
 ## Usage
 
